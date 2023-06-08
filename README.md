@@ -22,12 +22,8 @@ Program for working with Schulte tables.<br>
   </li>
 </ul>
 Used:
-OOP
-functions
-files
-random
-time
-generators
+OOP, functions, random, time
+
 
 
 ![Снимок экрана (31)](https://github.com/PhilipKroger/SchulteTables/assets/66637696/7f292aa4-cb3c-4e4b-b7be-39757f8bc24d)
