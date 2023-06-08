@@ -1,6 +1,7 @@
 # SchulteTables
 
 Program for working with Schulte tables.<br>
+<br>
 How does it work:
 1) User input
 2) table is generated
