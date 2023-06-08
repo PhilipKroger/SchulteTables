@@ -2,7 +2,7 @@
 
 Program for working with Schulte tables.<br>
 <br>
-How does it work:
+<h3>How does it work:<h3>
 1) User input
 2) table is generated
 3) the timer starts running
