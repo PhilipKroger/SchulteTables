@@ -25,24 +25,20 @@ def shulte(size):
 
 
 class Game:
-    def __init__(self, username, size, time):
-        self.username = username
-        self.size = size
-        self.time = time
-
-    def user(self):
-        self.username = input('Enter player name: ')
-        return self.username
+    def __init__(self, user_name, table_size, time_of_work):
+        self.user_name = user_name
+        self.table_size = table_size
+        self.time_of_work = time_of_work
 
     def save(self):
         """
         :return: final data
         """
         f_1 = open('users.txt', 'a')
-        f_1.write('\nusername:{} | time:{} | size:{}'.format(self.username, int(time() - self.time), self.size))
+        f_1.write('\nusername:{} | time:{} | size:{}'.format(self.user_name, int(time() - self.time_of_work), self.table_size))
         f_1.close()
         return '{}, your task completion time is {} sec. You have used the {}x{} grid. Great job.'.format(
-            self.username, int(time() - self.time), self.size, self.size)
+            self.user_name, int(time() - self.time_of_work), self.table_size, self.table_size)
 
 
 if __name__ == '__main__':
