@@ -28,4 +28,6 @@ files
 random
 time
 generators
-![Снимок экрана (31)](https://github.com/PhilipKroger/SchulteTables/assets/66637696/75d14dcf-4aea-4f71-9828-d6fa86944d1e)
+
+
+![Снимок экрана (31)](https://github.com/PhilipKroger/SchulteTables/assets/66637696/7f292aa4-cb3c-4e4b-b7be-39757f8bc24d)
