@@ -1,9 +1,6 @@
 # SchulteTables
-
 Program for working with Schulte tables.<br>
-<br>
 <h4>How does it work:</h4>
-
 <ul>
   <li>
     1) User input<br>
