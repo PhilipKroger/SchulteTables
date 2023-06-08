@@ -3,12 +3,24 @@
 Program for working with Schulte tables.<br>
 <br>
 <h4>How does it work:</h4>
-1) User input
-2) table is generated
-3) the timer starts running
-4) after completion, the execution time is displayed
-5) the data is written to the table
 
+<ul>
+  <li>
+    1) User input<br>
+  </li>
+  <li>
+    2) table is generated<br>
+  </li>
+  <li>
+   3) the timer starts running<br>
+  </li>
+  <li>
+    4) after completion, the execution time is displayed<br>
+  </li>
+  <li>
+    5) the data is written to the table<br>
+  </li>
+</ul>
 Used:
 OOP
 functions
